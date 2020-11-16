@@ -1,0 +1,11 @@
+.idea/
+bin/
+!deploy/bin/
+*-packr.go
+public/assets/
+.vscode/
+.grifter/
+.env
+**/.DS_Store
+dist/
+generated/
