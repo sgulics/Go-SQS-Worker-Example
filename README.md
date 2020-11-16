@@ -1,4 +1,4 @@
-# SQS Listener
+# Go SQS Worker Example
 
 Testing out how to start up multiple SQS workers that also support graceful shutdown, and exponential backoff.
 
